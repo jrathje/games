@@ -31,6 +31,8 @@ def counter_label(label):
     # The root widget has to be created before any other widgets and there can
     # only be one root widget.
 
+
+
 root = tk.Tk()
 root.title("Counting Seconds")
 
