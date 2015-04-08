@@ -1,6 +1,8 @@
 #-------------------------------------------------------------------------------
 # Name:        Tkinter_test.py
-# Purpose:      testing tkinter
+# Purpose:      testing tkinter and making notes on how to use various features
+#               This info was gleaned from Youtube video series by TheReimber
+#               called Python Tkinter etc.
 #
 # Author:      Jim Rathje
 #
